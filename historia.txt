@@ -1,1 +1,4 @@
-alex ... prueba
+alex toasa prueba
+tengo 31
+
+ingreso2
